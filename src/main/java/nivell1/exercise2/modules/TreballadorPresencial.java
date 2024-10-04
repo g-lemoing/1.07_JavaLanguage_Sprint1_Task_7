@@ -1,4 +1,4 @@
-package nivell1.exercise2.java.com.modules;
+package nivell1.exercise2.modules;
 
 public class TreballadorPresencial extends Treballador {
     private static double fuel = 50.00;

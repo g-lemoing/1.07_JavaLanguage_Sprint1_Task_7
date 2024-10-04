@@ -1,4 +1,4 @@
-package nivell1.exercise1.java.com.modules;
+package nivell1.exercise1.modules;
 
 public class TreballadorOnline extends Treballador{
     private final double INTERNET_FEE = 30.00;

@@ -1,4 +1,4 @@
-package nivell1.exercise2.java.com.modules;
+package nivell1.exercise2.modules;
 
 public class Treballador {
     private String name;

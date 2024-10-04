@@ -1,9 +1,9 @@
-package nivell1.exercise2.java.com.main;
+package nivell1.exercise2.main;
 
-import nivell1.exercise2.java.com.modules.*;
-import nivell1.exercise2.java.com.modules.TreballadorOnline;
-import nivell1.exercise2.java.com.modules.TreballadorPresencial;
-import nivell1.exercise2.java.com.modules.Utilities;
+import nivell1.exercise2.modules.*;
+import nivell1.exercise2.modules.TreballadorOnline;
+import nivell1.exercise2.modules.TreballadorPresencial;
+import nivell1.exercise2.modules.Utilities;
 
 public class Main {
     public static void main(String[] args) {
