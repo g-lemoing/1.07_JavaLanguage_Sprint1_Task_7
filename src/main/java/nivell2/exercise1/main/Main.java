@@ -6,7 +6,6 @@ import nivell2.exercise1.modules.Utilities;
 
 import java.io.File;
 import java.io.IOException;
-import java.io.StringWriter;
 
 public class Main {
     public static void main(String[] args) throws IOException {

@@ -2,7 +2,7 @@ package nivell2.exercise1.modules;
 
 import java.io.File;
 
-@JsonDirectory(".\\JSON")
+@JsonDirectory(".\\Json")
 public class Persona {
     private String name;
     private String surname;
